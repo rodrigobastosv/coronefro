@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "710199325793",
+    "firebase_url": "https://coronefro.firebaseio.com",
+    "project_id": "coronefro",
+    "storage_bucket": "coronefro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710199325793:android:8c1ff5e211d71173fca620",
+        "android_client_info": {
+          "package_name": "com.example.coronefro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710199325793-4gvl99t4prv4lso6q7m9uarlpi74p4vb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPxfftf_FXz6YuOQ8qrCEmQ6jC7SbIccM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710199325793-4gvl99t4prv4lso6q7m9uarlpi74p4vb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
